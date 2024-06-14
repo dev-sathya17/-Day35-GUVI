@@ -33,7 +33,6 @@
 
       ```
       db.products.find()
-
       ```
 
    2. Find the product price which are between 400 to 800.
